@@ -18,9 +18,10 @@ bio: My research interests focus on multivariate thinking as it pertains to stat
 
 # Interests to show in About widget
 interests:
-- Multivariate Thinking
 - Statistics Education
 - Data Science Education
+- Multivariate Thinking
+- Data Visualization
 
 # Education to show in About widget
 education:
