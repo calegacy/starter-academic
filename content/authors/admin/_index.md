@@ -14,26 +14,26 @@ organizations:
   url: https://www.cehd.umn.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests focus on multivariate thinking as it pertains to statistics and data science education.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Multivariate Thinking
+- Statistics Education
+- Data Science Education
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Educational Psychology
+    institution: University of Minnesotsa
+    year: 2017-Present
+  - course: MS in Statistics
+    institution: Iowa State University
+    year: 2014
+  - course: BS in Mathematics
+    institution: Saint Lawrence University
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
