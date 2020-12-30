@@ -68,4 +68,4 @@ Hello! I am a fourth year graduate student studying Statistics Education in the 
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/legacy-cv-2020.pdf" "newtab" >}}CV{{< /staticref >}}.
+
